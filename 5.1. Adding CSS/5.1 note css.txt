@@ -1,0 +1,32 @@
+<h1 style = "color:blue;">style </h1>
+inline ka example hai use hota for the specific part of the website 
+
+
+
+
+
+<link rel = "stylesheet  "  href = "link kar do css file "/>
+external la example hai kahi bhi use kar sakte hai webpage mai
+
+
+
+
+
+<style>
+ h1{color: red;}
+internal bohot kaam use hota hai mainly in webpage
+
+
+class ke liye 
+.class{}
+
+id ke liye 
+#id{}
+
+
+universal ke liye
+*{}
+
+
+value ke liye
+attribute[value=""]{}
